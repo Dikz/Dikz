@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/c1/16/12/c11612b4a8bc754d82e4025aab7dc11d.gif" min-width="200px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá, meu nome é Cicero Gabriel, desenvolvo soluções em tecnologia. Me viro como <strong>FullStack</strong>, mas com foco em backend e automações. <br>
