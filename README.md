@@ -42,3 +42,24 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)
 ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+<br>
+
+<a href="https://github.com/Dikz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dikz&theme=dracula&show_icons=true" />
+</a>
+
+<br>
+
+<p align="left">
+  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+  
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cicerogabriel/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5599984378283&text=Eai,%20vim%20do%20do%20github!"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrieldkz/"/></a>
+</p>  
